@@ -39,7 +39,9 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="misc.fs" />
     <Compile Include="either.fs" />
+    <Compile Include="option.fs" />
     <Compile Include="weak.fs" />
     <Compile Include="memoize.fs" />
   </ItemGroup>
